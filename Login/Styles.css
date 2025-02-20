@@ -43,11 +43,18 @@ header {
   text-align: center;
 }
 
+.wrapper h6{
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 75px;
+  margin-top: 50px;
+}
+
 .wrapper .input-box{
   width: 400px;
   height: 50px;
   margin: 60px 0;
-  margin-left: 13px;
+  margin-left: 18px;
 }
 
 .input-box input{
@@ -79,39 +86,74 @@ header {
   font-size: 16px;
   color: #333;
   font-weight: 600;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 
-.social-login {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-  margin-top: 30px;
-  width: 100%;
-}
-
-.social-btn {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 10px;
-  border-radius: 8px;
-  border: none;
-  cursor: pointer;
-  background: #333;
-  transition: background-color 0.3s;
-  height: 80px;
-  width: 110px;
-  margin-top: 20px;
-}
-
-.social-btn:hover {
-  background: #444;
+.social-media:hover::after {
+  background: rgb(202, 202, 202);
+  transition-duration: 0.3s;
 }
 
 .social-btn img {
   width: 24px;
   height: 24px;
+}
+
+.social-media{
+  display:flex;
+  margin: 30px 50px 0;
+}
+
+.social-media button{
+  height: 70px;
+  width: 200px;
+  margin-right:10px;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  cursor: pointer;
+  border:none;
+  border-radius: 15px;
+}
+
+.social-media button:last-child{
+  margin:0;
+}
+
+.social-media button img{
+  width: 30px;
+}
+
+.xbox {
+  background-color: green;
+}
+
+.ps {
+  background-color: darkblue;
+}
+
+.switch {
+  background-color: red;
+}
+
+.steam {
+  background-color: rgb(52, 110, 158);
+}
+
+.fb {
+  background-color: blue;
+}
+
+.google {
+  background-color: white;
+}
+
+.apple {
+  background-color: white;
+}
+
+.lego {
+  background-color: yellow;
 }
 
 footer {
