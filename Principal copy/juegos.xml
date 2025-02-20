@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game>
+        <title>Cyberpunk 2077</title>
+        <developer>CD Projekt Red</developer>
+        <description>Open-world RPG set in a dystopian future.</description>
+        <photos>
+            <photo>https://images.ecestaticos.com/VVEkaVUYS2udeWCXZjadvfZTexU=/83x0:1245x872/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe82%2F502%2F044%2Fe82502044b6a51f46dfc1590cf6fe1d5.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Red Dead Redemption 2</title>
+        <developer>Rockstar Games</developer>
+        <description>Explore the Wild West in this open-world adventure.</description>
+        <photos>
+            <photo>https://m.media-amazon.com/images/I/71nlEoSrewL._AC_UF894,1000_QL80_.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Star Wars Jedi</title>
+        <developer>Respawn Entertainment</developer>
+        <description>Galactic adventure set in the Star Wars universe.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/rnd/202105/1714/WHeOu95nW2SZQy6H5IKgE2Bg.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Shenmue III</title>
+        <developer>YsNet || Deep Silver</developer>
+        <description>An epic journey of revenge in an open world.</description>
+        <photos>
+            <photo>https://www.shenmuemaster.com/wp-content/uploads/2018/05/digital_deluxe_edition_shenmueIII.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Borderlands 3</title>
+        <developer>Gearbox Software | 2K</developer>
+        <description>Action and humor in an intergalactic loot shooter.</description>
+        <photos>
+            <photo>https://www.posters.fr/media/catalog/product/cache/cb3faf85ecb1e071fdba48f981c86454/g/b/gb_fp4825.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Outer Worlds</title>
+        <developer>Obsidian Entertainment</developer>
+        <description>Explore space in an RPG full of choices.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/cfn/11307DWVuREjDv3JnXusQxTjHIJHzhxx2_CUkUzQhzwYe5KUktTVe2_rFsnYYa1hMNlqHrWemXr0Nut__AF2KWPJp84uBZvf.png?w=440</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Paranoia</title>
+        <developer>Konami</developer>
+        <description>Role-playing game with elements of paranoia and espionage.</description>
+        <photos>
+            <photo>https://www.enworld.org/attachments/1696358122531-png.298832/</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Phoenix Point</title>
+        <developer>Snapshot Games</developer>
+        <description>Turn-based strategy from the creator of XCOM.</description>
+        <photos>
+            <photo>https://upload.wikimedia.org/wikipedia/en/1/14/Phoenix_Point_cover_art.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Arise: A Simple Story</title>
+        <developer>Piccolo | Techland</developer>
+        <description>An emotional journey through memories.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202303/0713/c4686ad209194d70b7d733260c346fd2206f285c3a822855.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Jotun Valhalla Edition</title>
+        <developer>Thunder Lotus</developer>
+        <description>Explore Norse mythology in this indie adventure.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/cdn/EP2251/CUSA05293_00/kaeS7yn0qIMN53tw8WMYqYKfUs8BM62F.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Escapists</title>
+        <developer>Mouldy Toof Studios</developer>
+        <description>Escape from prison in this challenging strategy game.</description>
+        <photos>
+            <photo>https://data.xxlgamer.com/products/3153/JjQmyXo4knnK4Z-big.jpg</photo>
+        </photos>
+    </game>
+    <game>
+        <title>The Crew 2</title>
+        <developer>Ubisoft</developer>
+        <description>Open-world racing game with various vehicles.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/rnd/202106/2915/1435VrOM5qYnVAYEBjMYDH3E.png</photo>
+        </photos>
+    </game>
+    
+   
+    <game>
+        <title>Afterparty</title>
+        <developer>Night School Studio</developer>
+        <description>Adventure game where you try to escape Hell by outdrinking Satan.</description>
+        <photos>
+            <photo>https://howlongtobeat.com/games/57456_Afterparty.jpg?width=250</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Surviving The Aftermath</title>
+        <developer>Iceflake Studios Oy</developer>
+        <description>Survival and management game in a post-apocalyptic world.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202209/2309/nV4UF79dSOmiLSntwbdkR3jK.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Untitled Goose Game</title>
+        <developer>House House | Panic</developer>
+        <description>Stealth and humor game where you control a mischievous goose.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/rnd/202009/0405/zqpKTik58BHcclOYA7YUnh4S.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Rainbow Six Siege</title>
+        <developer>Ubisoft</developer>
+        <description>Tactical multiplayer shooter with intense action.</description>
+        <photos>
+            <photo>https://data.xxlgamer.com/products/3432/8qvEyMpK1SyC69-big.jpg</photo>
+        </photos>
+    </game>
+    <game>
+        <title>Maneater</title>
+        <developer>Tripwire Interactive</developer>
+        <description>Action-survival game where you play as a shark.</description>
+        <photos>
+            <photo>https://m.media-amazon.com/images/M/MV5BYjdlODg1MzQtOTgxZS00M2RjLTg2MDctZGJmZWE5MWRmMTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>MechWarrior 5</title>
+        <developer>Piranha Games</developer>
+        <description>Mecha combat simulator in the BattleTech universe.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/mw5-s2-1200x1600_1200x1600-7e62db6ae48fcb403f9182068631df34</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Zombie Army 4: Dead War</title>
+        <developer>Rebellion</developer>
+        <description>A cooperative shooter with Nazi zombies.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/cfn/11307eUXuW4ondXgY9xQe5urhFnZjZDkB0Q1rii8LJxXXLh0VUTBKuSShB2YRKf8R1NEEbbLO5tMrcFsVjEivWN3agEm4j69.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Detroit: Become Human</title>
+        <developer>Quantic Dream</developer>
+        <description>Narrative adventure exploring the impact of androids on society.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/rnd/202010/2119/6qpYZ2v5JGHcaFAcT3JYEXYd.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Death Stranding</title>
+        <developer>Kojima Productions</developer>
+        <description>Open-world adventure with delivery and exploration mechanics.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/rnd/202009/2921/40aD0BqRUHyHdXdC6nwtwON5.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Ancestors</title>
+        <developer>Panache Digital Games</developer>
+        <description>Survival and evolution game set in prehistory.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/cfn/11307nchzKrZQ6GTfwN0kS7LiPAD76RFhFQpwKQBjXFM0bU0sTDe_aY0-fB94ffUpOJud0VTEWtMHAZVwIXFKvWTBSUpjA7S.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Satisfactory</title>
+        <developer>Coffee Stain Studios</developer>
+        <description>Construction and automation game in an alien world.</description>
+        <photos>
+            <photo>https://www.codesproduit.fr/wp-content/uploads/2021/08/Satisfactory-cover.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Fortnite Battle Royale</title>
+        <developer>Epic Games</developer>
+        <description>Battle royale game with live events and iconic collaborations.</description>
+        <photos>
+            <photo>https://cdn2.unrealengine.com/Fortnite%2Fblog%2Fpatch-v-1-6---fortnite-battle-royale%2FFortnite_BR_Key-Art_w-Logo_ENG-1920x1080-3e2ce1453476b725fa59e7aeb6ecb90e4b75a0df.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Dauntless</title>
+        <developer>Phoenix Labs</developer>
+        <description>Cooperative action RPG where you hunt Behemoths.</description>
+        <photos>
+            <photo>https://static.actugaming.net/media/2016/12/dauntless-jaquette.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Alan Awake II</title>
+        <developer>Remedy Entertainment</developer>
+        <description>Face supernatural enemies with limited resources.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/c4763f236d08423eb47b4c3008779c84/EGS_AlanWake2_RemedyEntertainment_S2_1200x1600-c7c8091ddac0f9669c8e5905bca88aaa</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Rocket League</title>
+        <developer>Psyonix LLC</developer>
+        <description>Combines arcade-style soccer with four-wheeled chaos.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-b61e9e7ec5d3294dfa514f23fc7f0684</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Fall Guys</title>
+        <developer>Mediatonic</developer>
+        <description>A free, cross-platform party royale—compete clumsily.</description>
+        <photos>
+            <photo>https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-00-1920x1080-75b891d04ff9.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>LEGO StarWars The Skywalker Saga</title>
+        <developer>TT Games</developer>
+        <description>Play through all nine Skywalker saga films.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S2_1200x1600-fba27b1ae598e355c3ad42d04d9025ba</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Ark: Survival Evolved</title>
+        <developer>Studio Wildcard</developer>
+        <description>Cooperative survival RPG with dinosaurs.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/img/rnd/202010/0818/HVUPJTyjOslwxbwCC8edPC45.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Grand Thef Auto V</title>
+        <developer>Rockstar Games</developer>
+        <description>An open-world game full of action and crime.</description>
+        <photos>
+            <photo>https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Spider-Man</title>
+        <developer>Insomniac Games</developer>
+        <description>Become Spider-Man, swing through New York, and face villains.</description>
+        <photos>
+            <photo>https://m.media-amazon.com/images/M/MV5BMmRiOTExM2EtMDgwZi00OGY0LWIxNDgtNTZiY2RjNDc5NGU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Spider-Man 2</title>
+        <developer>Insomniac Games</developer>
+        <description>More action, more webs, more enemies—experience the ultimate Spider-Man adventure.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/b2818b59c0bb420e9647983dfd254931/EGS_Octopus_InsomniacGamesNixxesSoftware_S2_1200x1600-5831c61378872a1fe233b295fbf3140f</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Hogwarts Legacy</title>
+        <developer>Avalanche Software</developer>
+        <description>Explore the magical world of Hogwarts, learn spells, and uncover secrets.</description>
+        <photos>
+            <photo>https://image.jeuxvideo.com/medias/163636/1636363677-7536-jaquette-avant.gif</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Kingdom Come: Deliverance II</title>
+        <developer>Warhorse Studios</developer>
+        <description>A realistic medieval story with intense combat and tough decisions.</description>
+        <photos>
+            <photo>https://upload.wikimedia.org/wikipedia/en/3/32/Kingdom_Come_Deliverance_II.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Dead by Daylight</title>
+        <developer>Warhorse Studios</developer>
+        <description>A multiplayer horror game where you must survive or hunt.</description>
+        <photos>
+            <photo>https://upload.wikimedia.org/wikipedia/en/b/b7/Dead_by_Daylight_Steam_header.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>It Takes Two</title>
+        <developer>Warhorse Studios</developer>
+        <description>A cooperative adventure full of challenges and creativity.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202012/0815/IjqyQi0J2PL7GdEo3K8jKWMh.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>FC 25</title>
+        <developer>Warhorse Studios</developer>
+        <description>Experience the thrill of soccer with the world’s best players and teams.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202409/2712/863dd6227f8bbc2739b74e3de7737e2acc640aa388a110a4.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Assassin's Creed Valhalla</title>
+        <developer>Warhorse Studios</developer>
+        <description>Become a legendary Viking and conquer England with epic battles.</description>
+        <photos>
+            <photo>https://image.jeuxvideo.com/medias-sm/158826/1588264397-5261-jaquette-avant.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Among Us</title>
+        <developer>Warhorse Studios</developer>
+        <description>Uncover the imposter or sabotage the mission in this fun deception game.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/amogusportrait_1200x1600-66ad0e4d363e1c92f9f8aae67a96dd31</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>EA SPORTS™ Madden NFL 25</title>
+        <developer>Electronic Arts</developer>
+        <description>ive the ultimate American football experience with top teams and players.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/333cce509c6b413c852e5177f19f8e84/EGS_EASPORTSMaddenNFL25_Tiburon_S2_1200x1600-289740792de6bbf7eefe8c40301b4077</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Black Myth: Wukong</title>
+        <developer>Game Science</developer>
+        <description>An action RPG inspired by Chinese mythology.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/ca9ef1bcf2f54043baac351366aec677/black-myth-wukong-jjjfw.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Destiny 2</title>
+        <developer>Bungie</developer>
+        <description>A multiplayer sci-fi shooter with vast worlds and epic battles.</description>
+        <photos>
+            <photo>https://insider-gaming.com/wp-content/uploads/2024/08/destiny-2-1.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Hell Let Loose</title>
+        <developer>Team17</developer>
+        <description>An intense World War II multiplayer shooter with large-scale battles.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/0fac3450d5b24587a1d25b5c94676f99/hell-let-loose-13i8r.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Elder Scrolls V: Skyrim</title>
+        <developer>Bethesda Game Studios</developer>
+        <description>An open-world fantasy RPG with limitless adventure.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/c8738a4d1ead40368eab9688b3c7d737/EGS_SkyrimSpecialEdition_BethesdaGameStudios_S2_1200x1600-ae5d13f6510e81460fe80aa1ca19cf4c</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Frospunk 2</title>
+        <developer>11 bit studios</developer>
+        <description>A city-building survival game set in a frozen dystopian world.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/32bc7c6aaecd40eeb5f58bb83dba1c05/EGS_Frostpunk2_11bitstudios_S2_1200x1600-8b452490754cb4a4fe1a983c533cfb5d</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>PC Building Simulator 2 </title>
+        <developer>Spiral House Ltd</developer>
+        <description>Build and repair PCs in this detailed simulation game.</description>
+        <photos>
+            <photo>https://upload.wikimedia.org/wikipedia/en/5/58/PC_Building_Simulator_2_cover_art.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>God of War Ragnarök</title>
+        <developer>Santa Monica Studio</developer>
+        <description>Embark on an epic Norse adventure with Kratos and Atreus.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/EUg935xYj1xnRS8jkKAapzCp.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Sniper Ghost Warrior Contracts</title>
+        <developer>Underdog Studio</developer>
+        <description>Tactical sniper gameplay in challenging open-world contracts.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-tp431.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Ghostrunner 2</title>
+        <developer>One More Level</developer>
+        <description>A fast-paced cyberpunk action game with intense parkour and combat.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202308/0121/f69a1189e9674b64a574b2fc35e987738be0ee41578818a7.png?w=440</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Control</title>
+        <developer>Remedy Entertainment</developer>
+        <description>A supernatural action game with mind-bending abilities.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Poppy Playtime</title>
+        <developer>Mob Entertainment</developer>
+        <description>A horror-puzzle game set in an abandoned toy factory.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/465c0f6c95d04b1c86b280b4925fee2d/poppy-playtime-14phl.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>PUBG: BATTLEGROUNDS</title>
+        <developer>KRAFTON, Inc.</developer>
+        <description>A battle royale shooter where survival is the ultimate goal.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-17zb2.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Marvel Rivals</title>
+        <developer>NetEase Games</developer>
+        <description>A multiplayer shooter featuring Marvel heroes and villains.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/eb15454c010f4a748498cd3a62096a52/marvel-rivals-wq3mr.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>BroTato</title>
+        <developer>Blobfish Games</developer>
+        <description>A roguelike action game starring a heavily armed potato.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/2c5525406ea34caebf391f1f4c8a44a5/brotato-erfvp.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Sifu</title>
+        <developer>Sloclap</developer>
+        <description>A kung-fu action game with intense melee combat and a unique aging mechanic.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/b7b42e2078524ab386a8b2a9856ef557/EGS_SIFUStandardEdition_Sloclap_S4_1200x1600-32aca69d756abfcc25f8581942a6162b_1200x1600-32aca69d756abfcc25f8581942a6162b</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Assassin's Creed® Mirage</title>
+        <developer>Ubisoft</developer>
+        <description>A return to classic stealth-action gameplay in the Assassin’s Creed universe.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/NFf86jgU4AeVYgJBEoEKBpxW.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>League of Legends</title>
+        <developer>Riot Games</developer>
+        <description>A competitive online strategy game with diverse champions and tactical battles.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S2_1200x1600-905a96cea329205358868f5871393042</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Shadow of the Tomb Raider</title>
+        <developer>Crystal Dynamics</developer>
+        <description>Follow Lara Croft on her journey to become the Tomb Raider.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/4b5461ca8d1c488787b5200b420de066/egs-shadowofthetombraiderdefinitiveedition-eidosmontralcrystaldynamicsnixxessoftware-s4-1200x1600-7ee40d6fa744_1200x1600-950cdb624cc75d04fe3c8c0b62ce98de</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Overcooked! 2</title>
+        <developer>Ghost Town Games</developer>
+        <description>A chaotic multiplayer cooking game where teamwork is key.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>World War Z</title>
+        <developer>Saber Interactive</developer>
+        <description>A cooperative zombie survival shooter with massive hordes.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/wombat/egs-worldwarz-saberinteractive-editions-s2-1200x1600-cbb1c018a329_1200x1600-18cf46496180a43842d33fcad8fe50c4</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Metro Exodus</title>
+        <developer>4A Games</developer>
+        <description>A post-apocalyptic survival shooter set in the Russian wilderness.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Moving Out</title>
+        <developer>SMG Studio || Devm Games</developer>
+        <description>A physics-based moving simulator with cooperative chaos.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S2_1200x1600-642277510bc38c789cef83e59423e580</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Cities: Skylines</title>
+        <developer>Paradox Interactive</developer>
+        <description>A city-building simulation game with deep management mechanics.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Prey</title>
+        <developer>Arkane Studios</developer>
+        <description>A sci-fi thriller where you must survive on a space station overrun by aliens.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Prey_ArkaneStudios_S2_1200x1600-98e869dbf74a7db4857c4242c044272d</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>LEGO® Batman™: The Videogame</title>
+        <developer>Traveller's Tales</developer>
+        <description>Fight crime as LEGO Batman in a fun-filled adventure.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/843c8ce683474448bb104a9651e8f325/batman_1200x1600-68c60eccac4167e2aa1d7894a29bc3c0</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Sid Meier's Civilization® VII</title>
+        <developer>Firaxis Games</developer>
+        <description>Build and lead a civilization through history in this strategy game.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/eb9cdf6dbe4b47fc8ba474017023476a/STANDART--METADATA-PRODUCT_OFFER_PORTRAIT_IMAGE-STATIC-ENUS-NO_RATING-EPIC-1200X1600-QA_1200x1600-7a2a0b7697c6355fed8da2a407ff17b2</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>SMITE</title>
+        <developer>Titan Forge Games</developer>
+        <description>A multiplayer online battle arena game featuring mythological gods.</description>
+        <photos>
+            <photo>https://m.media-amazon.com/images/M/MV5BNjQ1YTI4N2EtOGViYS00ZDlkLTg1NWItMDFkNjY4N2RjZDA0XkEyXkFqcGc@._V1_.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>LEGO® Builder's Journey</title>
+        <developer>Light Brick Studio</developer>
+        <description>A relaxing, artistic puzzle game with LEGO bricks.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LEGOBuildersJourney_LightBrickStudio_S2_1200x1600-dad6f4682babb9ffc39ca8c586e22ea1</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Callisto Protocol</title>
+        <developer>Striking Distance Studios</developer>
+        <description>A survival horror game set in a terrifying sci-fi prison.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Star Wars Outlaws</title>
+        <developer>Ubisoft Entertainment</developer>
+        <description>An open-world Star Wars adventure set between the original trilogy movies.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/e860fa919120430ca12c557bb676bc6a/EGST_StorePortrait_1200x1600_1200x1600-e6f41420c20529e7380243a6f6b7a38f</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>F1® Manager 2024</title>
+        <developer>Frontier Developments</developer>
+        <description>Take control of a Formula 1 team and lead it to victory.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/57015e643399448f8139291daa15bfc2/f1-manager-2024-15uhb.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Turmoil</title>
+        <developer>Gamious</developer>
+        <description>A simulation game about the 19th-century oil rush.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/4985026f56654289a4a1fa848f41c4c9/turmoil-n95rh.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Dredge</title>
+        <developer>Black Salt Games</developer>
+        <description>A fishing adventure with dark and mysterious undertones.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/068f920aa2e3477db96c60a00aebf8a3/dredge-4thxh.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Plants vs Zombies™ GW2</title>
+        <developer>PopCap</developer>
+        <description>A wacky and colorful shooter featuring plants and zombies in battle.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/a39e2271cd9a48a882b8c956205bc01f/plants-vs-zombies-gw2-deluxe-edition-m13gm.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Backrooms Hide And Seek</title>
+        <developer>Pine Games</developer>
+        <description>Navigate eerie, endless hallways and survive the horrors.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/783814ffd479478d98dbb2e5ed2f3078/backrooms-hide-and-seek-4xnz8.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Farming Simulator 22</title>
+        <developer>GIANTS Software</developer>
+        <description>Manage your own farm, grow crops, and operate realistic farming.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>MONOPOLY®</title>
+        <developer>Ubisoft Entertainment</developer>
+        <description>Buy, trade, and build your way to victory in this classic board game.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/3840e423f39f45eab96aac124a46492a/MONOPOLY%20MADNESS_STANDARD_EDITION_EPIC_Store%20Portrait_1200x1600_1200x1600-c4ee4ffed581bbcfb86fa1a73d98a2d4</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Need for Speed™ Unbound</title>
+        <developer>Electronic Arts</developer>
+        <description>Race through an open world with graffiti-style visuals and high-speed chases.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/9acb0d22292b48acaeb0eb38b391df93/EGS_NeedforSpeedUnbound_CriterionGames_S2_1200x1600-9633e095cbd48726c6025f64d3114bb8</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>DOOM Eternal</title>
+        <developer>id Software</developer>
+        <description>Rip and tear through hordes of demons in this fast-paced, brutal shooter.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/b5ac16dc12f3478e99dcfea07c13865c/EGS_DOOMEternal_idSoftware_S2_1200x1600-9a018727ccc708b2d98f2a8746c2d377</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>A Way Out</title>
+        <developer>Electronic Arts</developer>
+        <description>Escape from prison in this unique cooperative adventure full of action</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/a037fc78ee9d47b98466f17b44c46288/a-way-out-kd107.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Unravel Two</title>
+        <developer>Electronic Arts</developer>
+        <description>Embark on a heartfelt journey with two Yarnys in a beautiful puzzle-platformer.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/7ef2e7b2680d4bfdb5515e61452bc4b7/unravel-two-rgbt0.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Need for Speed™ Payback</title>
+        <developer>Electronic Arts</developer>
+        <description>Race, drift, and pull off heists in this high-speed driving game</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/00d69100f090489d9a8cd2db75ad9d8e/need-for-speed-payback-jficc.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Battlefield 4™ </title>
+        <developer>Electronic Arts</developer>
+        <description>Experience all-out war with destructible environments and intense combats.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/8141dd49fe39421989a02983a3bbdb00/battlefield-4-13z58.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>PAYDAY 3 </title>
+        <developer>Deep Silver</developer>
+        <description>Plan and execute high-stakes heists with your crew in this intense co-op.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/8962863aee2f4e7483fc37d4719c3f69/EGS_PAYDAY3_Starbreeze_S2_1200x1600-80e39c5ee902cba196b484464276c8b7</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Genshin Impact</title>
+        <developer>COGNOSPHERE PTE. LTD.</developer>
+        <description>Embark on an epic adventure in an open world full of magic and action.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Evil Within 2</title>
+        <developer>Tango Gameworks</developer>
+        <description>Face twisted horrors in a desperate fight to save your daughter</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/5891aa5c4c6f4aabbf555a679e02cfb9/EGS_TheEvilWithin2_TangoGameworks_S2_1200x1600-17d620c62723c63398e8d040eb04af7b</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Poker Club</title>
+        <developer>Ripstone3</developer>
+        <description>Experience professional poker with realistic graphics and tournaments.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202010/2815/1kcIcjIzbS6h6PBGZpH5XeUp.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Dead Island 2</title>
+        <developer>Deep Silver</developer>
+        <description>Survive the zombie apocalypse in Los Angeles with brutal combat.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/236c74b4cd2e4e3099cbe2ebdc9686fd/EGS_DeadIsland2_DeepSilverDambusterStudios_S2_1200x1600-efc5201842cf642eb45f73227cd0789b</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Call of Duty: Black Ops III</title>
+        <developer>Treyarch</developer>
+        <description>Enter a dark future with intense battles and the iconic Zombies mode.</description>
+        <photos>
+            <photo>https://upload.wikimedia.org/wikipedia/en/b/b1/Black_Ops_3.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>60 Seconds! Reatomized</title>
+        <developer>Robot Gentleman</developer>
+        <description>Survive in a shelter after a nuclear apocalypse by making key decisions.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/9b574fb62beb47c4a6e2da240201c3ec/download-60-seconds-reatomized-offer-g91je.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Hello Neighbor 2</title>
+        <developer>Gearbox Software</developer>
+        <description>Investigate your mysterious neighbor’s secrets in this stealth adventure.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/4046b000e6b0477ea639ee07e28db3d0/EGS_HelloNeighbor2_EerieGuest_S2_1200x1600-0fc602ed536ebbf08ee1645af162b38d</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Far Cry® 6</title>
+        <developer>Ubisoft</developer>
+        <description>Join the revolution and take on a dictator on a Caribbean island.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD%20EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Marvel's Spider-Man: Miles Morales</title>
+        <developer>Insomniac Games</developer>
+        <description>Become Spider-Man and protect New York with unique electric powers.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Fallout 3 : Game of the Year Edition</title>
+        <developer>Bethesda</developer>
+        <description>Explore a post-apocalyptic world and shape your destiny in the Wasteland.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/fa702d34a37248ba98fb17f680c085e3/EGS_Fallout3GameoftheYearEdition_BethesdaGameStudios_S2_1200x1600-e2ba392652a1f57c4feb65d6bbd1f963</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Saints Row</title>
+        <developer>Deep Silver Volition</developer>
+        <description>Experience action and chaos in an open world full of madness and rival gangs.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S2_1200x1600-d95f6c911a764ad44302f021a3174a24</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Battlefield 5™ </title>
+        <developer>Electronic Arts</developer>
+        <description>Experience World War II with intense combat and massive battles.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/bf5708c386744107b8a8a24ac707dd0e/EGS_BattlefieldVDefinitiveEdition_DICE_S2_1200x1600-93efffb7c557a05e8affc61d678f4286</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Tom Clancy's The Division 2</title>
+        <developer>Ubisoft</developer>
+        <description>Defend Washington D.C. in this tactical open-world RPG shooter.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/impala/UCS29355_EGST_BABU_US_TCTD2_StorePortrait_1200x1600_1200x1600-70fdcdc3068b4e3a6bf683403e4f7c15</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Tom Clancy’s Ghost Recon Wildlands</title>
+        <developer>Ubisoft</developer>
+        <description>Take on a cartel in Bolivia in this open-world tactical shooter.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/hyacinth/GRW_StorePortrait_1200x1600_1200x1600-78b13dd96e208170ca3ed32b3034fcc2</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Far Cry® 4</title>
+        <developer>Ubisoft</developer>
+        <description>Explore an open world full of danger and combat in the Himalayan mountains.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/cf87285950ba492bbdc370b9d265ea36/FC4_StorePortrait_1200x1600_1200x1600-7f366d878f5553dae499860243c537ee</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Assassin's Creed® Unity</title>
+        <developer>Ubisoft</developer>
+        <description>Live the French Revolution as an assassin in this stealth-action adventure.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/72bdc702b4974024a69a5eb718a7a135/ACUnityStandardPortrait_1200x1600-9b1ee825bd7c781dfca625f60d5db91a</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Watch Dogs 2</title>
+        <developer>Ubisoft</developer>
+        <description>Hack the system and challenge corporations in San Francisco with your crew.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/angelonia/WDA_StorePortrait_1200x1600_1200x1600-75d21fb44d647ad69967ae1bb0ab0cbc</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>UNO™ Ultimate Edition</title>
+        <developer>Ubisoft</developer>
+        <description>Enjoy the classic card game with new rules and fun game modes.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/ca93b6d41a4e41af864942d8f0a2a826/EGST_StorePortrait_1200x1600_1200x1600-059d0650ac3d4f969c0e61ae628d05f7</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Rising Storm 2: Vietnam</title>
+        <developer>Tripwire Interactive</developer>
+        <description>Fight in the Vietnam War with impressive battlefield realism.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S4-1200x1600-5e3b2f8107e17cc008237e52761d67e5.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Blair Witch</title>
+        <developer>Deep Silver</developer>
+        <description>Explore a terrifying forest and face psychological horrors in this adventure.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/8101d2b09984401fa28cecce4c867e71/offer/EGS_BlairWitch_BlooberTeam_S2-1200x1600-383829d159e119094323b55804daeb90.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>STAR WARS™ Battlefront™ II</title>
+        <developer>DICE</developer>
+        <description>Engage in epic galactic battles with iconic heroes and villains.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/offer/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Stranded Deep</title>
+        <developer>Beam Team Games</developer>
+        <description>Survive on a deserted island after a plane crash in the open sea.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StrandedDeep_BeamTeamGames_S2_1200x1600-f24f1e2a724ff81c6996a72caa0be642</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Breathedge</title>
+        <developer>RedRuins Softworks</developer>
+        <description>Explore space and survive in a sci-fi adventure with humor.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Supraland</title>
+        <developer>Sony</developer>
+        <description>A game of exploration and puzzles in a colorful world full of secrets.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Supraland_SupraGames_S4_1200x1600-a6d4a615d97e0e784f93dbde64daa345</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>World of Warships</title>
+        <developer>Wargaming</developer>
+        <description>Command powerful warships in intense strategic naval battles.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/spt-assets/4eb4296fe40e4130a61adbf2d6b34586/world-of-warships-h5ggs.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Days Gone</title>
+        <developer>Bend Studio</developer>
+        <description>Survive in a post-apocalyptic world overrun by hordes of relentless zombies..</description>
+        <photos>
+            <photo>https://images.gog-statics.com/323bab2d4ed936fa52e761fbe19d6a2f9109b79bbfe53cf1a0b57160f65cc23a.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Wolfenstein: The New Order</title>
+        <developer>Bethesda</developer>
+        <description>Fight against a dystopian Nazi regime in this intense shooter.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S2_1200x1600-0f70ad56e210812c26a9dde1a8143a58</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Battlefield™ 2042</title>
+        <developer>Electronic Arts</developer>
+        <description>Engage in large-scale modern warfare with dynamic battlefields and destruction.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-ed71f5e6188d8c4c411947f4b1fc59bc
+            </photo>
+        </photos>
+    </game>
+</games>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game>
+        <title>Cyberpunk 2077</title>
+        <developer>CD Projekt Red</developer>
+        <price>59.99</price>
+        <description>RPG de mundo abierto ambientado en un futuro distópico.</description>
+        <photos>
+            <photo>assets/CyberBanner.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Red Dead Redemption 2</title>
+        <developer>Rockstar Games</developer>
+        <price>10.99</price>
+        <description>Explora el salvaje oeste en esta aventura de mundo abierto.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/EGS_RockstarGames_RedDeadRedemption2_S2-1280x1440.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Star Wars Jedi</title>
+        <developer>Respawn Entertainment</developer>
+        <price>12.30</price>
+        <description>Aventura galáctica en el universo de Star Wars.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/SWJFO_ADHOC_510X680.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Shenmue III</title>
+        <developer>YsNet || Deep Silver</developer>
+        <price>4.99</price>
+        <description>Un épico viaje de venganza en un mundo abierto.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/Shenmue3_portraitpromo.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Borderlands 3</title>
+        <developer>Gearbox Software | 2K</developer>
+        <price>10.99</price>
+        <description>Acción y humor en un shooter de saqueo intergaláctico.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Outer Worlds</title>
+        <developer>Obsidian Entertainment</developer>
+        <price>10.99</price>
+        <description>Explora el espacio en un RPG lleno de decisiones.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Paranoia</title>
+        <developer>Konami</developer>
+        <price>10.99</price>
+        <description>Juego de rol con elementos de paranoia y espionaje.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_Paranoia_S3-1084x1356.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Phoenix Point</title>
+        <developer>Snapshot Games</developer>
+        <price>20.00</price>
+        <description>Estrategia por turnos del creador de XCOM.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/PhoenixPoint_NEWPortraitPromo-1280x1420.png</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Arise: A Simple Story</title>
+        <developer>Piccolo | Techland</developer>
+        <price>15.00</price>
+        <description>Viaje emocional a través de recuerdos.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/Arise_Portrait2-1280x1440.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>Jotun Valhalla Edition</title>
+        <developer>Thunder Lotus</developer>
+        <price>0.00</price>
+        <description>Explora la mitología nórdica en esta aventura indie.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440.jpg</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>The Escapists</title>
+        <developer>Mouldy Toof Studios</developer>
+        <price>0.00</price>
+        <description>Escapa de la prisión en este desafiante juego de estrategia.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/TheEscapists_Newsfeed_Post-2560x1440.jpg</photo>
+        </photos>
+    </game>
+    <game>
+        <title>The Crew 2</title>
+        <developer>Ubisoft</developer>
+        <price>0.00</price>
+        <description>Juego de carreras en mundo abierto con diversos vehículos.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/thecrew2.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Maneater</title>
+        <developer>Tripwire Interactive</developer>
+        <price>14.99</price>
+        <description>Juego de acción y supervivencia donde juegas como un tiburón.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/Manater_Epic_PortraitPromo.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Afterparty</title>
+        <developer>Night School Studio</developer>
+        <price>19.99</price>
+        <description>Juego de aventuras en el que intentas salir del infierno bebiendo más que Satanás.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/afterparty.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Surviving The Aftermath</title>
+        <developer>Iceflake Studios Oy</developer>
+        <price>7.99</price>
+        <description>Juego de supervivencia y gestión en un mundo post-apocalíptico.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/EGS_IceflakeStudiosOy_SurvivingtheAftermath_S2.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Untitled Goose Game</title>
+        <developer>House House | Panic</developer>
+        <price>10.99</price>
+        <description>Juego de sigilo y humor en el que controlas a un ganso travieso.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/UntitledGooseGame.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Rainbow Six Siege</title>
+        <developer>Ubisoft</developer>
+        <price>14.99</price>
+        <description>Shooter táctico multijugador con acción intensa.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/RainbowSixSiege.jpg</photo>
+        </photos>
+    </game>
+    <?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game>
+        <title>Maneater</title>
+        <developer>Tripwire Interactive</developer>
+        <price>14.99</price>
+        <description>Juego de acción y supervivencia donde juegas como un tiburón.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/Manater_Epic_PortraitPromo.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>MechWarrior 5</title>
+        <developer>Piranha Games</developer>
+        <price>18.99</price>
+        <description>Simulador de combate con mechas en el universo de BattleTech.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/S2-Store-Primary-Promo-1280x1440.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Zombie Army 4: Dead War</title>
+        <developer>Rebellion</developer>
+        <price>10.99</price>
+        <description>Un shooter cooperativo con zombies nazis.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/EGS_REBELLION_ZOMBIEARMY4_S3_KEYART-1280x1440.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Detroit: Become Human</title>
+        <developer>Quantic Dream</developer>
+        <price>24.99</price>
+        <description>Aventura narrativa que explora el impacto de los androides en la sociedad.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/undefined/offer/002_DETROIT_STOREPORTRAIT-1280x1420.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Death Stranding</title>
+        <developer>Kojima Productions</developer>
+        <price>29.99</price>
+        <description>Aventura de mundo abierto con mecánicas de entrega y exploración.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/EGS_KojimaProductions_DeathStranding_S2-1280x1440.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Ancestors</title>
+        <developer>Panache Digital Games</developer>
+        <price>24.99</price>
+        <description>Juego de supervivencia y evolución en la prehistoria.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/EGS_PanacheDigitalGames_Ancestors_S4_1280x1440.png</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Satisfactory</title>
+        <developer>Coffee Stain Studios</developer>
+        <price>17.99</price>
+        <description>Juego de construcción y automatización en un mundo alienígena.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/EGS_COFFEESTAIN_SATISFACTORY_S3_Update2KeyArt.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Fortnite Battle Royale</title>
+        <developer>Epic Games</developer>
+        <price>0.00</price>
+        <description>Juego de batalla real con eventos en vivo y colaboraciones icónicas.</description>
+        <photos>
+            <photo>https://cdn2.unrealengine.com/Fortnite.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Dauntless</title>
+        <developer>Phoenix Labs</developer>
+        <price>0.00</price>
+        <description>Juego de rol y acción cooperativo en el que cazas Behemoths.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/epic/offer/Dauntless.jpg</photo>
+        </photos>
+    </game>
+
+</games>
