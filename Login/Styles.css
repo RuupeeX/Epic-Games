@@ -32,7 +32,7 @@ header {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 10px rgba(0,0 , 0, .2);
   color: #f2f2f2;
-  height: 870px;
+  height: 990px;
   margin-left: 500px;
   border-radius: 20px;
   padding: 30px 40px;
@@ -41,6 +41,7 @@ header {
 .wrapper h1{
   font-size: 36px;
   text-align: center;
+  margin-top: 50px;
 }
 
 .wrapper h6{
@@ -50,6 +51,12 @@ header {
   margin-top: 50px;
 }
 
+.wrapper .img {
+  display: flex;
+  height: 60px;
+  justify-content: center;
+  margin-bottom: 15px;
+}
 .wrapper a {
   margin-left:20px;
 }
