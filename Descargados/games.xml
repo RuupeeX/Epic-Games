@@ -21,13 +21,22 @@
             <photo>https://m.media-amazon.com/images/I/71nlEoSrewL._AC_UF894,1000_QL80_.jpg</photo>
         </photos>
     </game>
+
     <game>
-        <title>Star Wars Jedi</title>
-        <developer>Respawn Entertainment</developer>
-        <price>12.30</price>
-        <description>Aventura galáctica en el universo de Star Wars.</description>
+        <title>Marvel's Spider-Man: Miles Morales</title>
+        <developer>Insomniac Games</developer>
+        <description>Become Spider-Man and protect New York with unique electric powers.</description>
         <photos>
-            <photo>https://image.api.playstation.com/vulcan/img/rnd/202105/1714/WHeOu95nW2SZQy6H5IKgE2Bg.png</photo>
+            <photo>https://cdn1.epicgames.com/offer/f696430be718494fac1d6542cfb22542/EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6</photo>
+        </photos>
+    </game>
+
+    <game>
+        <title>FC 25</title>
+        <developer>Warhorse Studios</developer>
+        <description>Experience the thrill of soccer with the world’s best players and teams.</description>
+        <photos>
+            <photo>https://image.api.playstation.com/vulcan/ap/rnd/202409/2712/863dd6227f8bbc2739b74e3de7737e2acc640aa388a110a4.png</photo>
         </photos>
     </game>
     <game>
@@ -46,6 +55,15 @@
         <description>Acción y humor en un shooter de saqueo intergaláctico.</description>
         <photos>
             <photo>https://www.posters.fr/media/catalog/product/cache/cb3faf85ecb1e071fdba48f981c86454/g/b/gb_fp4825.jpg</photo>
+        </photos>
+    </game>
+    
+    <game>
+        <title>Battlefield 5™ </title>
+        <developer>Electronic Arts</developer>
+        <description>Experience World War II with intense combat and massive battles.</description>
+        <photos>
+            <photo>https://cdn1.epicgames.com/offer/bf5708c386744107b8a8a24ac707dd0e/EGS_BattlefieldVDefinitiveEdition_DICE_S2_1200x1600-93efffb7c557a05e8affc61d678f4286</photo>
         </photos>
     </game>
 
