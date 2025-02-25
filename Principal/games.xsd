@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<!-- Función: Indica que es un documento XML versión 1.0 con codificación UTF-8 y utiliza el estándar XML Schema.-->
 
-    <xs:element name="games">
-        <xs:complexType>
-            <xs:sequence>
+    <xs:element name="games">   
+        <xs:complexType>      
+           <xs:sequence>
                 <xs:element name="game" maxOccurs="unbounded">
+                <!--Función: Define el elemento raíz games, que puede contener uno o más elementos game. --> 
                     <xs:complexType>
                         <xs:sequence>
+                      
                             <xs:element name="title" type="xs:string"/>
                             <xs:element name="developer" type="xs:string"/>
                             <xs:element name="price" type="xs:decimal"/>
                             <xs:element name="description" type="xs:string"/>
                             <xs:element name="photos">
+                              <!-- title: Nombre del juego (texto).
+                                developer: Desarrollador del juego (texto).
+
+                                price: Precio del juego (número decimal).
+
+                                description: Descripción del juego (texto).
+
+                                photos: Contenedor para las fotos del juego. -->
                                 <xs:complexType>
                                     <xs:sequence>
                                         <xs:element name="photo" type="xs:anyURI" maxOccurs="unbounded"/>
                                     </xs:sequence>
                                 </xs:complexType>
                             </xs:element>
+                              <!--  Función: Define que photos puede contener una o más photo, donde cada photo es una URI (por ejemplo, una URL de una imagen).-->
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
