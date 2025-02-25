@@ -36,12 +36,20 @@
       <div class="new-games-list">
         <!-- Por cada uno de los juegos del xml, se renderiza el div del single-game -->
         <xsl:for-each select="games/game">
+         <!-- Itera sobre cada elemento "game" dentro de "games" en el XML. -->
             <div class="single-game">
+              <!-- Crea un contenedor para cada juego. -->
+
                 <div class="img-box">
+                  <!-- Contenedor para la imagen del juego. -->
                     <a href="">
+                     <!-- Enlace (vacío por ahora) que podría redirigir a más detalles del juego. -->
                         <img class="game-img">
+                        <!-- Imagen del juego. -->
                             <xsl:attribute name="src">
+                              <!-- Define el atributo "src" de la imagen. -->
                                 <xsl:value-of select="photos/photo"/>
+                                <!-- Obtiene la URL de la primera foto del juego desde el XML. -->
                             </xsl:attribute>
                         </img>
                     </a>
@@ -52,58 +60,7 @@
         </xsl:for-each>
 
 
-        <!-- <div class="single-game">
-          <div class="img-box">
-            <a href="../InfoJuegos/ReadDead/index.html"><img class="game-img"
-              src="https://m.media-amazon.com/images/I/71nlEoSrewL._AC_UF894,1000_QL80_.jpg"
-              alt="game-pic" /></a>
-          </div>
-          <h3 class="title">Read Dead Redemption 2</h3>
-          <div class="sub-title">Rockstar Games</div>
-        
-        </div>
-        <div class="single-game">
-          <div class="img-box">
-            <a href="../InfoJuegos/SpiderMan2/index.html"><img class="game-img"
-              src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/09/marvels-spider-man-2-1696011147019-3148250.jpg?tf=3840x"
-              alt="game-pic" /></a>
-          </div>
-
-          <h3 class="title">Spider-Man 2</h3>
-          <div class="sub-title">Insomniac Games</div>
-         
-        </div>
-        <div class="single-game">
-          <div class="img-box">
-            <a href="../InfoJuegos/GTAV/index.html"><img class="game-img"
-              src="https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
-              alt="game-pic" /></a>
-          </div>
-          <h3 class="title">Grand Thef Auto V</h3>
-          <div class="sub-title">Rockstar Games</div>
-        
-        </div>
-        <div class="single-game">
-          <div class="img-box">
-            <a href="../InfoJuegos/BorderLands/index.html"><img class="game-img"
-              src="https://www.posters.fr/media/catalog/product/cache/cb3faf85ecb1e071fdba48f981c86454/g/b/gb_fp4825.jpg"
-              alt="game-pic" /></a>
-          </div>
-
-          <h3 class="title">BorderLands 3</h3>
-          <div class="sub-title">Gearbox Software | 2K</div>
-         
-        </div>
-        <div class="single-game">
-          <div class="img-box">
-            <a href="../InfoJuegos/RocketLeague/index.html"><img class="game-img"
-              src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg"
-              alt="game-pic" /></a>
-            </div>
-          <h3 class="title">Rocket League</h3>
-          <div class="sub-title">Psyonix LLC</div>
-         
-        </div> -->
+   
       </div>
     </div>
   </section>
