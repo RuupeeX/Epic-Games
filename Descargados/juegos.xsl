@@ -36,20 +36,12 @@
       <div class="new-games-list">
         <!-- Por cada uno de los juegos del xml, se renderiza el div del single-game -->
         <xsl:for-each select="games/game">
-         <!-- Itera sobre cada elemento "game" dentro de "games" en el XML. -->
             <div class="single-game">
-              <!-- Crea un contenedor para cada juego. -->
-
                 <div class="img-box">
-                  <!-- Contenedor para la imagen del juego. -->
                     <a href="">
-                     <!-- Enlace (vacío por ahora) que podría redirigir a más detalles del juego. -->
                         <img class="game-img">
-                        <!-- Imagen del juego. -->
                             <xsl:attribute name="src">
-                              <!-- Define el atributo "src" de la imagen. -->
                                 <xsl:value-of select="photos/photo"/>
-                                <!-- Obtiene la URL de la primera foto del juego desde el XML. -->
                             </xsl:attribute>
                         </img>
                     </a>
@@ -60,7 +52,7 @@
         </xsl:for-each>
 
 
-   
+       
       </div>
     </div>
   </section>
